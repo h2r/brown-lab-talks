@@ -1,0 +1,4 @@
+In goal-reaching agents, how are strategies for different goals related? Can we solve goal-reaching reinforcement learning (RL) with a sufficiently good representation of states and goals? In this talk, I will present a method for training high-performance optimal goal-reaching agents by learning a quasimetric geometry. This talk consists of three parts:
+1. Goal-Reaching RL == Quasimetric geometry learning.
+2. How to represent this geometry? Deep quasimetric models.
+3. How to learn this geometry from local transitions? A geometric argument based on quasimetric properties.

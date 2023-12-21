@@ -1,0 +1,7 @@
+Generative AI has led to stunning successes in recent years but is fundamentally limited by the amount of data available. 
+This is especially challenging in robotics, where data is often missing and especially difficult to acquire.  In this talk, I’ll introduce 
+the idea of compositional generative modeling, which can significantly reduce data requirements by building complex generative models 
+from smaller constituents. First, I introduce the idea of modeling generative models with energy landscapes and illustrate how they enable 
+compositional generative modeling. I’ll then illustrate how such compositional models enable the synthesis of robotic plans for novel environments
+ as well as complex visual scenes. Finally, I'll show how such compositionality can be applied to multiple “foundation models” to construct robotic 
+systems that can hierarchically plan and reason with multimodal inputs to solve long-horizon problems.

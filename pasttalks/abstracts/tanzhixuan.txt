@@ -1,0 +1,15 @@
+People routinely infer the goals of others from both actions and words, understanding not just their surface content, but also the intentions and desires that underlie them. How might we build assistive machines that do the same? This talk will first introduce Bayesian inverse planning as a general framework for goal inference problems. I will then show how these problems can be solved accurately and efficiently via sequential inverse plan/policy search (SIPS), a family of algorithms that models agents as online model-based planners, and uses programmable sequential Monte Carlo to rapidly infer agents' goals and plans from observations of their behavior. Both planning and inference are grounded in PDDL representations of the environment via PDDL.jl, a extensible compiler for classical and numeric PDDL planning with comparable performance to FastDownward and ENHSP. This delivers speed, generality, and interpretability, while also enabling assistive robots to plan helpful actions.
+
+Because SIPS is highly configurable, it can be used to model boundedly-rational agents: Agents that plan ahead only a few steps at a time, and hence might exhibit mistakes from not planning enough. This allows us to infer an agent's goals even when they fail to achieve them, accurately mirroring how humans infer others' goals from their mistaken plans, while significantly outperforming Boltzmann-rational agent models. SIPS can also be extended to handle linguistic input: By modeling how an agent not only acts, but also communicates rationally to achieve their goals, we can infer the pragmatic intentions behind their utterances. We do this by integrating (large) language models (LLMs) as likelihood functions over utterances, allowing us to handle a wide range of utterance forms, and to infer an agent's goal from both their actions and utterances.
+
+Finally, I will present ongoing work on how Bayesian inverse planning can be extended to even richer settings. In environments where human goals exhibit rich compositional structures (e.g. cooking a meal in a kitchen), I will show how LLMs can be used as common sense goal priors, enabling accurate goal inference even when there are millions of semantically valid goals. In continuous environments, I will also show how goal inference can be performed via Bayesian inverse motion planning, avoiding the limits of discretization. These advances pave the way towards fast, flexible, and grounded inferences over the infinite variety of human goals, furthering the development of human-aligned assistive systems.
+
+Relevant papers:
+Online Bayesian Goal Inference for Boundedly Rational Planning Agents
+Modeling the Mistakes of Boundedly Rational Agents with an Bayesian Theory of Mind
+Inferring the Goals of Communicating Agents from Actions and Instructions
+
+Relevant libraries:
+https://github.com/probcomp/GenParticleFilters.jl
+https://github.com/JuliaPlanners/PDDL.jl
+https://github.com/JuliaPlanners/SymbolicPlanners.jl

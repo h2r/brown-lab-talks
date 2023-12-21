@@ -1,20 +1,20 @@
 ---
 # Name of the organizer
-name: Organizer Jane Doe
+name: Ziyi Yang
 
 # Link to the organizer's webpage
-webpage: https://jane.doe
+webpage: http://yzylmc.com
 
 # Primary affiliation
-affil: Buzz University
+affil: 2024(Now)
 # Link to the primary affiliation
-affil_link: https://buzz.edu
+# affil_link: https://buzz.edu
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: ziyiyang.jpeg
 
-# Secondary affiliation
-affil2: BuzzFizz Corp
-# Link to the secondary affiliation
-affil2_link: https://buzzfizz.corp
+# # Secondary affiliation
+# affil2: BuzzFizz Corp
+# # Link to the secondary affiliation
+# affil2_link: https://buzzfizz.corp
 ---

@@ -1,6 +1,6 @@
 ---
 # Name of the speaker
-name: Stefano Albrecht
+name: Stefano V. Albrecht
 
 # Link to the speaker's webpage
 webpage: https://agents.inf.ed.ac.uk/stefano-albrecht/

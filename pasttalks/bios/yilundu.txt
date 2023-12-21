@@ -1,0 +1,3 @@
+Yilun Du is PhD student at MIT EECS advised by Leslie Kaelbling, Tomas Lozano-Perez, and Joshua Tenenbaum. Previously,
+he has done a research fellowship at OpenAI, and held visiting researcher/research internship positions at FAIR and Google Deepmind. 
+ He is supported by the NSF Graduate Fellowship, and has received outstanding paper awards at NeurIPS and ICRA workshops.

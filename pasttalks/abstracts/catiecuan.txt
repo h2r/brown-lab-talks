@@ -1,0 +1,1 @@
+Choreographers and roboticists both organize moving bodies in space, yet the platforms and practices they employ are seemingly dissimilar. This talk describes the emerging field of choreorobotics, from dancing robots to novel programming interfaces, and why the intersection of these artistic and engineering fields is rapidly expanding.

@@ -23,12 +23,12 @@ Brown Robotics Talks consists of BigAI talks and lab talks (CIT 115). From sprin
 <tbody>
   <tr>
     <td>02/02</td>
-    <td>Deep Reinforcement Learning for Multi-Agent Interaction</td>
-    <td>Stefano Albrecht</td>
+    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b></td>
+    <td>Stefano V. Albrecht</td>
   </tr>
   <tr>
     <td>03/01</td>
-    <td>TBD</td>
+    <td><b>TBD</b></td>
     <td>Felix Yanwei Wang</td>
   </tr>
 </tbody>

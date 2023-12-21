@@ -1,0 +1,1 @@
+Over the past couple months CarperAI has built trlX, one of the first open source RLHF implementations capable of fine-tuning large language models at scale. We test offline reinforcement algorithms to reduce compute requirements and explore the practicality of synthetic preference data, finding both can be combined to significantly reduce expensive RLHF costs.

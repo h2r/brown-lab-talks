@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+Please feel free to email [us](mailto:ziyi_yang1@brown.edu) if you have any question or suggestion!
