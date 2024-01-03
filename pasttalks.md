@@ -92,3 +92,111 @@ permalink: /pasttalks/
   </tr>
 </tbody>
 </table>
+
+<h2>2022</h2>
+<table>
+<thead>
+  <tr>
+    <th>Talk</th>
+    <th>Speaker</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>Handling Distribution Shifts by training RL agents to be adaptive</b> [<a href='abstracts/anuragajay.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1o4zlo8A3SVL1xviRpt9Egnsm-7t4AkKP/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://anuragajay.github.io/' target="_blank">Anurag Ajay</a></td>
+  </tr>
+  <tr>
+    <td><b>Resource Optimization for Learning in Robotics</b> [<a href='abstracts/shivamvats.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1i29PGRUrMAoBEzZxHHUji3YlWkStYZBq/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://shivamvats.com/' target="_blank">Shivam Vats</a></td>
+  </tr>
+  <tr>
+    <td><b>Towards understanding self-supervised representation learning</b> [<a href='abstracts/nikunjsaunshi.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1thkbS-n1qLuYgkEb127gD8wO0KylT7Or/view?usp=share_link' target="_blank">recording</a>]</td>
+    <td><a href='https://www.nikunjsaunshi.com/' target="_blank">Nikunj Saunshi</a></td>
+  </tr>
+  <tr>
+    <td><b>Integrating Psychophysiological Measurements with Robotics in Dynamic Environments</b> [<a href='abstracts/poojaandcourtney.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1q6Zk58wsbOXMr7tZmU2_ltulIvD80oal/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://www.linkedin.com/in/pooja-bovard' target="_blank">Pooja Bovard</a> And <a href='https://cs.brown.edu/people/grad/cctse/' target="_blank">Courtney Tse</a></td>
+  </tr>
+  <tr>
+    <td><b>Learning and Memory in General Decision Processes</b> [<a href='abstracts/camallen.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/14Hf9fncRsRjmjtmJUL6dZSRcdCKAmOtv/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://camallen.net/' target="_blank">Cam Allen</a></td>
+  </tr>
+  <tr>
+    <td><b>Creating Versatile Learning Agents Via Lifelong Compositionality</b> [<a href='abstracts/jorgemendez.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1RkszNHiyE-VpVowQ7YODMIc17o07Yhev/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://www.csail.mit.edu/person/jorge-mendez' target="_blank">Jorge Mendez</a></td>
+  </tr>
+  <tr>
+    <td><b>Learning Scalable Strategies for Swarm Robotic Systems</b> [<a href='abstracts/lishuopan.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1PNpglCIQiuNtRKRIiM4jXHoXZpeOmTXT/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://www.panlishuo.com/' target="_blank">Lishuo Pan</a></td>
+  </tr>
+  <tr>
+    <td><b>Dynamic probabilistic logic models for effective task-specific abstractions in RL</b> [<a href='abstracts/harshakokel.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/13x6WzRi8nVKsZ4xQY_PZSw2E9JNNtpRc/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://harshakokel.com/' target="_blank">Harsha Kokel</a></td>
+  </tr>
+  <tr>
+    <td><b>Why is this Taking so Dang Long? The Performance Characteristics of Multi-agent Path Finding Algorithms</b> [<a href='abstracts/ericewing.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1-QDX9yhz1pxELbrhHqy1iGDzjDrFkx9G/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://ewinge.me/' target="_blank">Eric Ewing</a></td>
+  </tr>
+  <tr>
+    <td><b>Learning-Augmented Anticipatory Planning: designing capable and trustworthy robots that plan despite missing knowledge</b> [<a href='abstracts/gregorystein.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/15mAt3DFq900IfYodqJ5Oxx0pp7xiEvyZ/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://gjstein.com/' target="_blank">Gregory Stein</a></td>
+  </tr>
+  <tr>
+    <td><b>Towards Lifelong Reinforcement Learning through Zero-Shot Logical Composition</b> [<a href='abstracts/geraudtasse.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1ucIdkQAh9y4eRfSdD_JdgiPPotVYhM0y/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://geraudnt.github.io/' target="_blank">Geraud Nangue Tasse</a></td>
+  </tr>
+  <tr>
+    <td><b>WHAT IS ARiSE AND ITS PURPOSE, HOW DOES IT BENEFIT HAMPTON UNIVERSITY, LOCAL MILITARY/GOVERNMENT AGENCIES, UAS INDUSTRIES, AND THE COMMUNITIES OF HAMPTON ROADS</b> [<a href='abstracts/johnpmurray.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1xda8ZtTLCWz1GU24G2HhbhEb5cC_eWNe/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://www.linkedin.com/in/john-murray-749893292' target="_blank">John P Murray</a></td>
+  </tr>
+  <tr>
+    <td><b>Learning and Using Hierarchical Abstractions for Efficient Taskable Robots</b> [<a href='abstracts/geraudtasse.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1FEXJEr6J8C-hddAObTzET6sBKTU_6ePU/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://www.namanshah.net/' target="_blank">Naman Shah</a></td>
+  </tr>
+  <tr>
+    <td><b>Representation in Robotics</b> [<a href='abstracts/kaiyuzheng.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/13OO9SUWuNwSKZeoA1fma4hNz64tNo9PE/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://kaiyuzheng.me/' target="_blank">Kaiyu Zheng</a></td>
+  </tr>
+  <tr>
+    <td><b>Toward More Robust Hyperparameter Optimization</b> [<a href='abstracts/afedercooper.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1zayhgJWOvlwqsTYnFrTYkiyFqZQuwCsR/view?usp=sharingt' target="_blank">recording</a>]</td>
+    <td><a href='https://afedercooper.info/' target="_blank">A. Feder Cooper</a></td>
+  </tr>
+  <tr>
+    <td><b>Statistical and Computational Issues in Reinforcement Learning (with Linear Function Approximation)</b> [<a href='abstracts/gauravmahajan.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1OSRSyupwbLG-PG-7wHGKUDJyEnZnwnq_/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://gomahajan.github.io/' target="_blank">Gaurav Mahajan</a></td>
+  </tr>
+  <tr>
+    <td><b>On the Expressivity of Markov Reward</b> [<a href='abstracts/daveabel.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1nyOO4HQYVH3To0b-i9AI2abQQjlqdlgh/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://david-abel.github.io/' target="_blank">Dave Abel</a></td>
+  </tr>
+  <tr>
+    <td><b>Robot Skill Learning via Representation Sharing and Reward Conditioning</b>[<a href='abstracts/tuluhanakbulut.txt' target="_blank">abstract</a>] & <b>Shape-Based Transfer of Generic Skills</b> [<a href='abstracts/skyethompson.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1YNw2egsp7ArblMY53kHVp0j1Jt6RjkQN/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://www.linkedin.com/in/mete-tuluhan-akbulut-90b21076/' target="_blank">Tuluhan Akbulut</a> & <a href='https://scholar.google.com/citations?user=KdcjezcAAAAJ&hl=en' target="_blank">Skye Thompson</a></td>
+  </tr>
+  <tr>
+    <td><b>Hardware Architecture for LiDAR Point Cloud Processing in Autonomous Driving</b> [<a href='abstracts/xinminghuang.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1Myh42HheSwGCgfRzi39OtLvm1N1H1CQD/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='hhttps://users.wpi.edu/~xhuang/' target="_blank">Xinming Huang</a></td>
+  </tr>
+  <tr>
+    <td><b>Working with Spot</b> [<a href='abstracts/max&kaiyu.txt' target="_blank">abstract</a>] & <b>Count based exploration</b> [<a href='abstracts/samlobel.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/10KPiTRUYaBkCxvhZCj_MqBzi1sUjonSm/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://kaiyuzheng.me/' target="_blank">Kaiyu Zheng</a> & <a href='https://www.linkedin.com/in/maxmerlin/' target="_blank">Max Merlin</a> & <a href='https://samlobel.github.io/' target="_blank">Sam Lobel</a></td>
+  </tr>
+  <tr>
+    <td><b>MICo: Improved representations via sampling-based state similarity for Markov decision processes</b> [<a href='abstracts/pablocastro.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1rgotoyfdwTu4GhNDXcxepyXZuzfPtPJM/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://psc-g.github.io/' target="_blank">Pablo Samuel Castro</a></td>
+  </tr>
+  <tr>
+    <td><b>Weak inductive biases for composable primitive representations</b> [<a href='abstracts/wilkacarvalho.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1uoP3n5wRdgzqUhjLH27JT2wtCPKNrskk/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://cogscikid.com/' target="_blank">Wilka Carvalho</a></td>
+  </tr>
+  <tr>
+    <td><b>Mirror Descent Policy Optimization</b> [<a href='abstracts/manantomar.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1umosW9BO5ixMJmJfTa5pbGPmYXeN6FJf/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://manantomar.github.io/' target="_blank">Manan Tomar</a></td>
+  </tr>
+  <tr>
+    <td><b>Joint Task and Motion Planning with the Functional Object-Oriented Network</b> [<a href='abstracts/davidpaulius.txt' target="_blank">abstract</a>][<a href='https://drive.google.com/file/d/1BXKoq5OLQs-RqBfxu1KQQUExx0BkvIj_/view?usp=sharing' target="_blank">recording</a>]</td>
+    <td><a href='https://davidpaulius.github.io/' target="_blank">David Paulius</a></td>
+  </tr>
+</tbody>
+</table>

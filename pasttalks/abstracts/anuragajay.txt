@@ -1,0 +1,7 @@
+While sequential decision-making algorithms like reinforcement learning have been seeing much broader applicability and success, they are still often deployed under the assumption that the train and test set of MDPs are drawn IID from the same distribution. But in most real-world production systems, distribution shift is ubiquitous, and any system designed for real-world deployment must be able to handle this robustly. An RL agent deployed in the wild must be robust to data distribution shifts arising from the diversity and dynamism of the real world. In this talk, I will describe two scenarios where such data distribution shifts can occur: (i) offline reinforcement learning and (ii) meta reinforcement learning. In both scenarios, I will discuss how dealing with distribution shift requires careful training of dynamic, adaptive policies that can infer and adapt to varying levels of distribution shift. This allows agents to go beyond the standard requirement of train and test distribution matching and show improvement in scenarios with significant distribution shifts. I will discuss how this framework will allow us to build adaptive and robust simulated robotics systems.
+
+Relevant papers:
+
+(1) Offline RL policies should be trained to be adaptive (ICML 2022)
+(2) Distributionally Adaptive Meta RL (NeurIPS 2022)
+(3)  Is conditional generative modeling all you need for decision making? (FMDM Workshop NeurIPS 2022)

@@ -1,0 +1,3 @@
+People often bet the future progress of robotics on having better representations. I am curious why existing representations seem insufficient, and how people pursue better ones. Driven by this, I focus on reviewing the representations used in two specific robotics domains: object manipulation in unstructured environments, and human-robot interaction for teamwork.
+
+Note that I had little time to prepare, and the areas are new to me. I take this as an opportunity to make myself learn more and address the questions, which I do think are important. Hope we can discuss and have fun!
