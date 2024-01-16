@@ -23,12 +23,12 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
 <tbody>
   <tr>
     <td>01/26</td>
-    <td><b>TBD</b></td>
+    <td><b>Toward Full-Stack Reliable Robot Learning for Autonomy and Interaction</b> [<a href='assets/abstracts/glenchou.txt' target="_blank">abstract</a>]</td>
     <td>Glen Chou</td>
   </tr>
   <tr>
     <td>02/02</td>
-    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b></td>
+    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b> [<a href='assets/abstracts/stefanoalbrecht.txt' target="_blank">abstract</a>]</td>
     <td>Stefano V. Albrecht</td>
   </tr>
   <tr>
