@@ -23,7 +23,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
 <tbody>
   <tr>
     <td>01/26</td>
-    <td><b>Toward Full-Stack Reliable Robot Learning for Autonomy and Interaction</b> [<a href='assets/abstracts/glenchou.txt' target="_blank">abstract</a>]</td>
+    <td><b>Toward Full-Stack Reliable Robot Learning for Autonomy and Interaction</b> [<a href='assets/abstracts/glenchou.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f89a50f8-b208-4c16-9d03-b103012dbd92' target="_blank">recording</a>]</td>
     <td>Glen Chou</td>
   </tr>
   <tr>
