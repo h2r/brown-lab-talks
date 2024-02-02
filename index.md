@@ -28,7 +28,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>02/02</td>
-    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b> [<a href='assets/abstracts/stefanoalbrecht.txt' target="_blank">abstract</a>]</td>
+    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b> [<a href='assets/abstracts/stefanoalbrecht.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a32a4d42-eac8-45a0-8ad3-b10a0135683e' target='_blank'>recording</a>]</td>
     <td>Stefano V. Albrecht</td>
   </tr>
   <tr>
