@@ -32,6 +32,11 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
     <td>Stefano V. Albrecht</td>
   </tr>
   <tr>
+    <td>02/09</td>
+    <td><b>Object-level Planning: Bridging the Gap between Human Knowledge and Task and Motion Planning</b> [<a href='assets/abstracts/davidpaulius.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d4d8cf2-965b-4f60-8c0e-b111013014d8' target='_blank'>recording</a>]</td>
+    <td>David Paulius</td>
+  </tr>  
+  <tr>
     <td>03/01</td>
     <td><b>TBD</b></td>
     <td>Felix Yanwei Wang</td>
