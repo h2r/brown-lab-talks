@@ -5,6 +5,34 @@ permalink: /pasttalks/
 ---
 
 (You'll need a Brown account to access the recordings.)
+<h2>2024</h2>
+<table>
+<thead>
+  <tr>
+    <th>Talk</th>
+    <th>Speaker</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>Toward Full-Stack Reliable Robot Learning for Autonomy and Interaction</b> [<a href='assets/abstracts/glenchou.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f89a50f8-b208-4c16-9d03-b103012dbd92' target="_blank">recording</a>]</td>
+    <td>Glen Chou</td>
+  </tr>
+  <tr>
+    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b> [<a href='assets/abstracts/stefanoalbrecht.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a32a4d42-eac8-45a0-8ad3-b10a0135683e' target='_blank'>recording</a>]</td>
+    <td>Stefano V. Albrecht</td>
+  </tr>
+  <tr>
+    <td><b>Object-level Planning: Bridging the Gap between Human Knowledge and Task and Motion Planning</b> [<a href='assets/abstracts/davidpaulius.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d4d8cf2-965b-4f60-8c0e-b111013014d8' target='_blank'>recording</a>]</td>
+    <td>David Paulius</td>
+  </tr>
+  <tr>
+    <td><b>[internal] <a href="https://www.panlishuo.com/" target="_blank">Lishuo</a>, <a href="https://taodav.cc/" target="_blank">David</a>, <a href="https://sparr.io/" target="_blank">Shane</a>, <a href="https://cs.brown.edu/people/grad/xhe71/" target="_blank">Ivy</a>, <a href="https://www.linkedin.com/in/lakshita-dodeja-15399321b/" target="_blank">Lakshita</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770f2727-f138-4f05-b058-b1180133cd30' target='_blank'>recording</a>]</td>
+   
+  </tr>
+</tbody>
+</table>
+
 <h2>2023</h2>
 <table>
 <thead>
