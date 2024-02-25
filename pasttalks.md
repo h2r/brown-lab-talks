@@ -15,19 +15,23 @@ permalink: /pasttalks/
 </thead>
 <tbody>
   <tr>
-    <td><b>Toward Full-Stack Reliable Robot Learning for Autonomy and Interaction</b> [<a href='assets/abstracts/glenchou.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f89a50f8-b208-4c16-9d03-b103012dbd92' target="_blank">recording</a>]</td>
+    <td><b>Toward Full-Stack Reliable Robot Learning for Autonomy and Interaction</b> [<a href='abstracts/glenchou.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f89a50f8-b208-4c16-9d03-b103012dbd92' target="_blank">recording</a>]</td>
     <td>Glen Chou</td>
   </tr>
   <tr>
-    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b> [<a href='assets/abstracts/stefanoalbrecht.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a32a4d42-eac8-45a0-8ad3-b10a0135683e' target='_blank'>recording</a>]</td>
+    <td><b>Deep Reinforcement Learning for Multi-Agent Interaction</b> [<a href='abstracts/stefanoalbrecht.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a32a4d42-eac8-45a0-8ad3-b10a0135683e' target='_blank'>recording</a>]</td>
     <td>Stefano V. Albrecht</td>
   </tr>
   <tr>
-    <td><b>Object-level Planning: Bridging the Gap between Human Knowledge and Task and Motion Planning</b> [<a href='assets/abstracts/davidpaulius.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d4d8cf2-965b-4f60-8c0e-b111013014d8' target='_blank'>recording</a>]</td>
+    <td><b>Object-level Planning: Bridging the Gap between Human Knowledge and Task and Motion Planning</b> [<a href='abstracts/davidpaulius.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d4d8cf2-965b-4f60-8c0e-b111013014d8' target='_blank'>recording</a>]</td>
     <td>David Paulius</td>
   </tr>
   <tr>
-    <td><b>[internal] <a href="https://www.panlishuo.com/" target="_blank">Lishuo</a>, <a href="https://taodav.cc/" target="_blank">David</a>, <a href="https://sparr.io/" target="_blank">Shane</a>, <a href="https://cs.brown.edu/people/grad/xhe71/" target="_blank">Ivy</a>, <a href="https://www.linkedin.com/in/lakshita-dodeja-15399321b/" target="_blank">Lakshita</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770f2727-f138-4f05-b058-b1180133cd30' target='_blank'>recording</a>]</td>
+    <td><b>[internal] <a href="https://www.panlishuo.com/" target="_blank">Lishuo</a>, <a href="https://taodav.cc/" target="_blank">David</a>, <a href="https://sparr.io/" target="_blank">Shane</a>, <a href="https://cs.brown.edu/people/grad/xhe71/" target="_blank">Ivy</a>, <a href="https://www.linkedin.com/in/lakshita-dodeja-15399321b/" target="_blank">Lakshita</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770f2727-f138-4f05-b058-b1180133cd30' target='_blank'>recording</a>]</td><td></td>
+   
+  </tr>
+  <tr>
+    <td><b>[internal] <a href='https://benedictquartey.com/home-page' target="_blank">Benedict Quartey</a>, <a href='https://thao-nguyen-ai.github.io/' target="_blank">Thao Nguyen</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e51d18f6-0bee-4acf-84ef-b11f012ec1fa' target='_blank'>recording</a>][slides: <a href='pdf/LIMP_Talk_Benedict.pdf' target="_blank">1</a> <a href="https://docs.google.com/presentation/d/1Mfv624cONP7E16hLCEBHJXxadQCO6m7-ziCPur-Fmjw/edit?usp=sharing" target="_blank">2</a>]</td><td></td>
    
   </tr>
 </tbody>
