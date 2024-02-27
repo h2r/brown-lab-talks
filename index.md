@@ -46,5 +46,15 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
     <td><b>TBD</b></td>
     <td>Jiayuan Mao</td>
   </tr>
+  <tr>
+    <td>04/26</td>
+    <td><b>Experiment Planning with Function Approximation</b> [<a href='assets/abstracts/aldopacchiano.txt' target="_blank">abstract</a>]</td>
+    <td>Aldo Pacchiano</td>
+  </tr>
+  <tr>
+    <td>05/10</td>
+    <td><b>TBD</b></td>
+    <td>Kate Darling</td>
+  </tr>
 </tbody>
 </table>
