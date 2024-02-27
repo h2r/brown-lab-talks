@@ -21,4 +21,4 @@ img: felixyanweiwang.png
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-__TBD__
+Felix Yanwei Wang is a fifth-year PhD candidate from MIT EECS, working with Prof. Julie Shah, and is a Work of the Future Fellow in Generative AI at MIT. He has spent time working with Prof. Dieter Fox at the Nvidia Robotics Lab. Before his PhD, he obtained his master's degree in robotics at Northwestern University, working with Prof. Todd Murphey and Prof. Mitra Hartmann. His research goal is to design LfD methods that are inherently interactive—i.e., admissible to real-time human feedback and yet remain close to the demonstration manifold in some measure—so that humans can easily modify a pre-trained policy without needing to reteach the robot for new tasks.

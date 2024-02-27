@@ -38,7 +38,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>  
   <tr>
     <td>03/01</td>
-    <td><b>TBD</b></td>
+    <td><b>Towards Interactive Task and Motion Imitation</b> [<a href='assets/abstracts/felixwang.txt' target="_blank">abstract</a>]</td>
     <td>Felix Yanwei Wang</td>
   </tr>
   <tr>
