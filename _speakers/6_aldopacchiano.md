@@ -6,9 +6,9 @@ name: Aldo Pacchiano
 webpage: https://www.aldopacchiano.ai/
 
 # Primary affiliation of the speaker
-affil: Broad Institute
+affil: Boston University
 # Link to the speaker's primary affiliation
-affil_link: https://www.broadinstitute.org/
+affil_link: https://www.bu.edu/cds-faculty/explore/bu-center-for-computing-data-sciences/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: aldopacchiano.jpeg
