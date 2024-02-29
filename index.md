@@ -42,6 +42,11 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
     <td>Felix Yanwei Wang</td>
   </tr>
   <tr>
+    <td>05/10</td>
+    <td><b>TBD</b></td>
+    <td>Ondrej Biza</td>
+  </tr>
+  <tr>
     <td>04/19</td>
     <td><b>TBD</b></td>
     <td>Jiayuan Mao</td>
