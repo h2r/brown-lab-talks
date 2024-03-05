@@ -38,12 +38,12 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>  
   <tr>
     <td>03/01</td>
-    <td><b>Towards Interactive Task and Motion Imitation</b> [<a href='assets/abstracts/felixwang.txt' target="_blank">abstract</a>]</td>
+    <td><b>Towards Interactive Task and Motion Imitation</b> [<a href='assets/abstracts/felixwang.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08651f60-fdba-4160-952e-b1260133f8d1' target='_blank'>recording</a>]</td>
     <td>Felix Yanwei Wang</td>
   </tr>
   <tr>
     <td>05/10</td>
-    <td><b>TBD</b></td>
+    <td><b>Towards Composable Scene Representations in Robotics and Vision</b> [<a href='assets/abstracts/ondrejbiza.txt' target="_blank">abstract</a>]</td>
     <td>Ondrej Biza</td>
   </tr>
   <tr>

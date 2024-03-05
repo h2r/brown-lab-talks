@@ -21,4 +21,4 @@ img: ondrejbiza.png
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-__TBD__
+Ondrej Biza is a 5th year PhD Candidate at Northeastern University and an Intern at the Boston Dynamics AI Institute. His research focuses on learning structured representations in robotics and computer vision, including learning to discover and represent objects and learning and transferring robotic manipulation policies. Previously, Ondrej was a Student Researcher at Google Research in the Brain team in Amsterdam and an undergraduate researcher at the Czech Technical University in Prague.

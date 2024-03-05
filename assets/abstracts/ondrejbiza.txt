@@ -1,0 +1,5 @@
+Robotics researchers have made great strides in learning general manipulation policies. But, many challenges remain. In particular, we need policies that generalize between object instances, re-arrangements of scenes and viewpoint changes, as well as the ability to learn skills from a few demonstrations.
+
+In the first part of my talk, I will describe how we can use a representation based on the warping of object shapes to generalize skills across unseen object instances. I will show that this representation enables one-shot learning of object re-arrangement policies with a high success rate on a physical robot. In the second part, I will discuss my previous work at Google Research called Invariant Slot Attention. Inspired by theories of human cognition, I will show that learning to represent objects invariant of their pose and size improves fully unsupervised object discovery.
+
+Finally, I will talk about my interests for future research, especially in scaling up pre-training in robotics, autonomous data collection and policy learning and object-oriented 3D scene representations.
