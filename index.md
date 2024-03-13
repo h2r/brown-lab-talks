@@ -43,7 +43,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>05/10</td>
-    <td><b>Towards Composable Scene Representations in Robotics and Vision</b> [<a href='assets/abstracts/ondrejbiza.txt' target="_blank">abstract</a>]</td>
+    <td><b>Towards Composable Scene Representations in Robotics and Vision</b> [<a href='assets/abstracts/ondrejbiza.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0a1556d-bb90-4fca-a239-b12d0130a9bb' target='_blank'>recording</a>]</td>
     <td>Ondrej Biza</td>
   </tr>
   <tr>
