@@ -28,11 +28,20 @@ permalink: /pasttalks/
   </tr>
   <tr>
     <td><b>[internal] <a href="https://www.panlishuo.com/" target="_blank">Lishuo</a>, <a href="https://taodav.cc/" target="_blank">David</a>, <a href="https://sparr.io/" target="_blank">Shane</a>, <a href="https://cs.brown.edu/people/grad/xhe71/" target="_blank">Ivy</a>, <a href="https://www.linkedin.com/in/lakshita-dodeja-15399321b/" target="_blank">Lakshita</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770f2727-f138-4f05-b058-b1180133cd30' target='_blank'>recording</a>]</td><td></td>
-   
   </tr>
   <tr>
     <td><b>[internal] <a href='https://benedictquartey.com/home-page' target="_blank">Benedict Quartey</a>, <a href='https://thao-nguyen-ai.github.io/' target="_blank">Thao Nguyen</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e51d18f6-0bee-4acf-84ef-b11f012ec1fa' target='_blank'>recording</a>][slides: <a href='pdf/LIMP_Talk_Benedict.pdf' target="_blank">1</a> <a href="https://docs.google.com/presentation/d/1Mfv624cONP7E16hLCEBHJXxadQCO6m7-ziCPur-Fmjw/edit?usp=sharing" target="_blank">2</a>]</td><td></td>
-   
+  </tr>
+  <tr>
+    <td><b>Towards Interactive Task and Motion Imitation</b> [<a href='abstracts/felixwang.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08651f60-fdba-4160-952e-b1260133f8d1' target='_blank'>recording</a>]</td>
+    <td>Felix Yanwei Wang</td> 
+  </tr>
+  <tr>
+    <td><b>Towards Composable Scene Representations in Robotics and Vision</b> [<a href='abstracts/ondrejbiza.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0a1556d-bb90-4fca-a239-b12d0130a9bb' target='_blank'>recording</a>]</td>
+    <td>Ondrej Biza</td> 
+  </tr>
+  <tr>
+    <td><b>[internal] <a href="https://yzylmc.github.io/" target="_blank">Ziyi</a>, <a href="https://cs.brown.edu/people/grad/bhedegaa/" target="_blank">Benned</a>, <a href="https://benjaminaspiegel.com/" target="_blank">Ben</a>, <a href="https://arjun-prakash.github.io/" target="_blank">Arjun</a>, <a href="https://saulbatman.github.io/" target="_blank">Mingxi</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12df9810-de8f-4a71-9fe9-b1340121ea76' target='_blank'>recording</a>][slides: <a href="https://docs.google.com/presentation/d/17o0kTTD0Fr9F7g_PQ_E2FNKCUdqcbreB39IQXoFTxv8/edit?usp=sharing" target="_blank">1</a> <a href="https://drive.google.com/file/d/1wYVRpC5O9ZBeqz_EB1mhaK6waUyKWIGk/view?usp=sharing" target="_blank">2</a> <a href="https://drive.google.com/file/d/1cVG4jKJ9fxiLVHNbincsx9Y1Du6S7WA_/view?usp=sharing" target="_blank">3</a> <a href="https://docs.google.com/presentation/d/1rvFEgDjE6V-wnYNMVAKXf3sYZdaXn2kAwwLREaZODfg/edit?usp=sharing" target="_blank">4</a> <a href="https://docs.google.com/presentation/d/1YUL8QKFx9XB4dv6EXQRU-zxy7CzXIoBqXYVbN8oBD8k/edit?usp=sharing" target="_blank">5</a>]</td><td></td>
   </tr>
 </tbody>
 </table>
