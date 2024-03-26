@@ -43,6 +43,9 @@ permalink: /pasttalks/
   <tr>
     <td><b>[internal] <a href="https://yzylmc.github.io/" target="_blank">Ziyi</a>, <a href="https://cs.brown.edu/people/grad/bhedegaa/" target="_blank">Benned</a>, <a href="https://benjaminaspiegel.com/" target="_blank">Ben</a>, <a href="https://arjun-prakash.github.io/" target="_blank">Arjun</a>, <a href="https://saulbatman.github.io/" target="_blank">Mingxi</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12df9810-de8f-4a71-9fe9-b1340121ea76' target='_blank'>recording</a>][slides: <a href="https://docs.google.com/presentation/d/17o0kTTD0Fr9F7g_PQ_E2FNKCUdqcbreB39IQXoFTxv8/edit?usp=sharing" target="_blank">1</a> <a href="https://drive.google.com/file/d/1wYVRpC5O9ZBeqz_EB1mhaK6waUyKWIGk/view?usp=sharing" target="_blank">2</a> <a href="https://drive.google.com/file/d/1cVG4jKJ9fxiLVHNbincsx9Y1Du6S7WA_/view?usp=sharing" target="_blank">3</a> <a href="https://docs.google.com/presentation/d/1rvFEgDjE6V-wnYNMVAKXf3sYZdaXn2kAwwLREaZODfg/edit?usp=sharing" target="_blank">4</a> <a href="https://docs.google.com/presentation/d/1YUL8QKFx9XB4dv6EXQRU-zxy7CzXIoBqXYVbN8oBD8k/edit?usp=sharing" target="_blank">5</a>]</td><td></td>
   </tr>
+  <tr>
+    <td><b>[internal] <a href='https://samlobel.github.io/' target="_blank">Sam Lobel</a>, <a href='https://rafarodsa.github.io/' target="_blank">Rafael Rodriguez-Sanchez</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef3601df-f890-40b4-85e8-b13b0123c278' target='_blank'>recording</a>][slides: <a href='https://docs.google.com/presentation/d/1peL8JSZTGAYz-04p_FWGFPxXyuhzUvYk/edit?usp=sharing&ouid=111469992764121383019&rtpof=true&sd=true' target="_blank">1</a> <a href="https://docs.google.com/presentation/d/1WSceiRs1DWRSTdfPRCmn1iL85SS8yive/edit?usp=sharing&ouid=111469992764121383019&rtpof=true&sd=true" target="_blank">2</a>]</td><td></td>
+  </tr>
 </tbody>
 </table>
 
