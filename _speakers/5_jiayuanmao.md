@@ -21,4 +21,4 @@ img: jiayuan.jpeg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-__TBD__
+Jiayuan Mao is a Ph.D. student at MIT, advised by Professors Josh Tenenbaum and Leslie Kaelbling. Her research aim is to build machines that can continually learn concepts (e.g., properties, relations, rules, and skills) from their experiences and apply them for reasoning and planning in the physical world. Her research topics include visual reasoning, robotic manipulation, scene and activity understanding, and language acquisition.
