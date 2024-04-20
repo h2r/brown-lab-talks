@@ -46,6 +46,10 @@ permalink: /pasttalks/
   <tr>
     <td><b>[internal] <a href='https://samlobel.github.io/' target="_blank">Sam Lobel</a>, <a href='https://rafarodsa.github.io/' target="_blank">Rafael Rodriguez-Sanchez</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef3601df-f890-40b4-85e8-b13b0123c278' target='_blank'>recording</a>][slides: <a href='https://docs.google.com/presentation/d/1peL8JSZTGAYz-04p_FWGFPxXyuhzUvYk/edit?usp=sharing&ouid=111469992764121383019&rtpof=true&sd=true' target="_blank">1</a> <a href="https://docs.google.com/presentation/d/1WSceiRs1DWRSTdfPRCmn1iL85SS8yive/edit?usp=sharing&ouid=111469992764121383019&rtpof=true&sd=true" target="_blank">2</a>]</td><td></td>
   </tr>
+  <tr>
+    <td><b>Building General-Purpose Robots with Integrated Learning and Planning</b> [<a href='abstracts/jiayuanmao.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f4fd531-a03d-4a13-9dbd-b15701264e37' target='_blank'>recording</a>]</td>
+    <td>Jiayuan Mao</td>
+  </tr>
 </tbody>
 </table>
 

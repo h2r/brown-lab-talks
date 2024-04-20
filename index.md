@@ -48,7 +48,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>04/19</td>
-    <td><b>Building General-Purpose Robots with Integrated Learning and Planning</b> [<a href='assets/abstracts/jiayuanmao.txt' target="_blank">abstract</a>]</td>
+    <td><b>Building General-Purpose Robots with Integrated Learning and Planning</b> [<a href='assets/abstracts/jiayuanmao.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f4fd531-a03d-4a13-9dbd-b15701264e37' target='_blank'>recording</a>]</td>
     <td>Jiayuan Mao</td>
   </tr>
   <tr>
