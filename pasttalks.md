@@ -50,6 +50,12 @@ permalink: /pasttalks/
     <td><b>Building General-Purpose Robots with Integrated Learning and Planning</b> [<a href='abstracts/jiayuanmao.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f4fd531-a03d-4a13-9dbd-b15701264e37' target='_blank'>recording</a>]</td>
     <td>Jiayuan Mao</td>
   </tr>
+  <tr>
+    <td><b>[internal] <a href="https://www.linkedin.com/in/anita-de-mello-koch-6423b486" target="_blank">Anita</a>, <a href="https://www.linkedin.com/in/mete-tuluhan-akbulut-90b21076" target="_blank">Tuluhan</a>, <a href="https://github.com/TabithaKO" target="_blank">Tabby</a>, <a href="http://www.sergioorozco.com/" target="_blank">Sergio</a>, <a href="https://haotianfu.me/" target="_blank">Haotian</a>, <a href="https://www.rwu.edu/academics/schools-and-colleges/seccm/faculty/matthew-r-stein-phd" target="_blank">Prof. Matthew Stein's Group</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=836d28ff-322e-4b57-8a5f-b165011fd061' target='_blank'>recording</a>]</td><td></td>
+  </tr>
+  <tr>
+    <td><b>[internal] <a href='https://alpera.xyz/' target="_blank">Alper Ahmetoglu</a>, <a href='https://ewinge.me/' target="_blank">Eric Ewing</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a97965b0-3d00-4608-a4b9-b16c011eb356' target='_blank'>recording</a>]</td><td></td>
+  </tr>
 </tbody>
 </table>
 
