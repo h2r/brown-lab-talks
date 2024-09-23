@@ -10,7 +10,55 @@ layout: all
 
 Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.google.com/maps/place/Department+of+Computer+Science/@41.826953,-71.4021589,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4453b5275469d:0xc48a812b6cfb273!8m2!3d41.826953!4d-71.3995786!16s%2Fg%2F1hhwdn5zz?entry=ttu) 115). From spring 2024, this website is created to track both talk series. All confirmed schedule will be posted, together with recordings of past talks (you'll need a Brown account to access the recordings).
 
-### Schedule for Spring 2024
+<h3>Schedule for Fall 2024</h3>
+
+<table>
+<thead>
+  <tr>
+    <th>Date</th>
+    <th>Talk</th>
+    <th>Speaker</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>10/11</td>
+    <td><b>TBD</b></td>
+    <td>Pulkit Verma</td>
+  </tr>
+  <tr>
+    <td>10/18</td>
+    <td><b>TBD</b></td>
+    <td>Roberto Martin-Martin</td>
+  </tr>
+  <tr>
+    <td>10/25</td>
+    <td><b>TBD</b></td>
+    <td>Alex LaGrass</td>
+  </tr>
+  <tr>
+    <td>11/01</td>
+    <td><b>TBD</b></td>
+    <td>Jason Ma</td>
+  </tr>
+  <tr>
+    <td>11/08</td>
+    <td><b>TBD</b></td>
+    <td>Neil Dantam</td>
+  </tr>
+  <tr>
+    <td>11/15</td>
+    <td><b>TBD</b></td>
+    <td>Linfeng Zhao</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<h3>Spring 2024</h3>
+
+
 
 <table>
 <thead>

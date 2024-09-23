@@ -56,6 +56,9 @@ permalink: /pasttalks/
   <tr>
     <td><b>[internal] <a href='https://alpera.xyz/' target="_blank">Alper Ahmetoglu</a>, <a href='https://ewinge.me/' target="_blank">Eric Ewing</a></b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a97965b0-3d00-4608-a4b9-b16c011eb356' target='_blank'>recording</a>]</td><td></td>
   </tr>
+  <tr>
+    <td><b>[internal] A few attempts to learn generalizable manipulation skills - An imitation learning view</b>[<a href='abstracts/mingxijia.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd473ccc-2b2c-4cf1-81e3-b1e301200dea' target='_blank'>recording</a>]</td><td><a href='https://saulbatman.github.io/' target="_blank">Mingxi Jia</a></td>
+  </tr>
 </tbody>
 </table>
 
