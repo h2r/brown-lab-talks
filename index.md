@@ -51,6 +51,11 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
     <td><b>TBD</b></td>
     <td>Linfeng Zhao</td>
   </tr>
+  <tr>
+    <td>12/6</td>
+    <td><b>TBD</b></td>
+    <td>Nare Karapetyan</td>
+  </tr>
 </tbody>
 </table>
 
