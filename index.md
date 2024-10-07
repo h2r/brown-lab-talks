@@ -23,7 +23,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
 <tbody>
   <tr>
     <td>10/11</td>
-    <td><b>TBD</b></td>
+    <td><b>Learning Interpretable Models for Autonomous Assessment of Taskable AI Systems</b></td>
     <td>Pulkit Verma</td>
   </tr>
   <tr>
@@ -50,6 +50,11 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
     <td>11/15</td>
     <td><b>TBD</b></td>
     <td>Linfeng Zhao</td>
+  </tr>
+  <tr>
+    <td>11/22</td>
+    <td><b>TBD</b></td>
+    <td>Yiding Jiang</td>
   </tr>
   <tr>
     <td>12/6</td>
