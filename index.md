@@ -28,13 +28,13 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>10/18</td>
-    <td><b>TBD</b></td>
+    <td><b>What Foundation Models Can and Cannot Do for Bringing Helpful Robotic Assistants into Our Lives</b></td>
     <td>Roberto Martin-Martin</td>
   </tr>
   <tr>
     <td>10/25</td>
-    <td><b>TBD</b></td>
-    <td>Alex LaGrass</td>
+    <td><b>Know your (model's) limits: Expanding robot capabilities by characterizing model deviation</b></td>
+    <td>Alex LaGrassa</td>
   </tr>
   <tr>
     <td>11/01</td>
@@ -43,7 +43,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>11/08</td>
-    <td><b>TBD</b></td>
+    <td><b>Robot Planning and Manipulation: Symbols, Geometry, and Feasibility</b></td>
     <td>Neil Dantam</td>
   </tr>
   <tr>
