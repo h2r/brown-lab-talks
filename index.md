@@ -36,6 +36,11 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
     <td><b>Know your (model's) limits: Expanding robot capabilities by characterizing model deviation</b></td>
     <td>Alex LaGrassa</td>
   </tr>
+    <tr>
+    <td>10/30</td>
+    <td><b>Empowering Novice Users of Robots through Accessible Information and Pre-trained Policies</b></td>
+    <td>Isaac Sheidlower</td>
+  </tr>
   <tr>
     <td>11/01</td>
     <td><b>TBD</b></td>
