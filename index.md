@@ -43,7 +43,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>11/01</td>
-    <td><b>TBD</b></td>
+    <td><b>Environment Curriculum Generation via Large Language Models</b></td>
     <td>Jason Ma</td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>11/15</td>
-    <td><b>TBD</b></td>
+    <td><b>Structured Learning for Planning and World Modeling in Complex Environments</b></td>
     <td>Linfeng Zhao</td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>12/6</td>
-    <td><b>TBD</b></td>
+    <td><b>Planning and Exploration for Autonomous Systems with Aquatic Applications</b></td>
     <td>Nare Karapetyan</td>
   </tr>
 </tbody>
