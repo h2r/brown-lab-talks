@@ -23,37 +23,37 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
 <tbody>
   <tr>
     <td>10/11</td>
-    <td><b>Learning Interpretable Models for Autonomous Assessment of Taskable AI Systems</b></td>
+    <td><b>Learning Interpretable Models for Autonomous Assessment of Taskable AI Systems</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1ba45df-90b5-4edb-b9b9-b2060121ec6a' target="_blank">recording</a>][<a href='assets/abstracts/pulkitverma.txt' target="_blank">abstract</a>]</td>
     <td>Pulkit Verma</td>
   </tr>
   <tr>
     <td>10/18</td>
-    <td><b>What Foundation Models Can and Cannot Do for Bringing Helpful Robotic Assistants into Our Lives</b></td>
+    <td><b>What Foundation Models Can and Cannot Do for Bringing Helpful Robotic Assistants into Our Lives</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9f413292-39b3-44fb-9b96-b204002734f8' target="_blank">recording</a>][<a href='assets/abstracts/robertomartinmartin.txt' target="_blank">abstract</a>]</td>
     <td>Roberto Martin-Martin</td>
   </tr>
   <tr>
     <td>10/25</td>
-    <td><b>Know your (model's) limits: Expanding robot capabilities by characterizing model deviation</b></td>
+    <td><b>Know your (model's) limits: Expanding robot capabilities by characterizing model deviation</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=635a8141-d234-402e-b9bb-b214011bfb2e' target="_blank">recording</a>]</td>
     <td>Alex LaGrassa</td>
   </tr>
     <tr>
     <td>10/30</td>
-    <td><b>Empowering Novice Users of Robots through Accessible Information and Pre-trained Policies</b></td>
+    <td><b>Empowering Novice Users of Robots through Accessible Information and Pre-trained Policies</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ec8b9d8-a010-4575-951d-b219013a7f8b' target="_blank">recording</a>]</td>
     <td>Isaac Sheidlower</td>
   </tr>
   <tr>
     <td>11/01</td>
-    <td><b>Environment Curriculum Generation via Large Language Models</b></td>
+    <td><b>Environment Curriculum Generation via Large Language Models</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ace3d7e-51c4-4112-972e-b21b011c7dc0' target="_blank">recording</a>]</td>
     <td>Jason Ma</td>
   </tr>
   <tr>
     <td>11/08</td>
-    <td><b>Robot Planning and Manipulation: Symbols, Geometry, and Feasibility</b></td>
+    <td><b>Robot Planning and Manipulation: Symbols, Geometry, and Feasibility</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06d84dd4-f2d9-44c3-8607-b22201148bbe&start=1972.574556' target="_blank">recording</a>]</td>
     <td>Neil Dantam</td>
   </tr>
   <tr>
     <td>11/15</td>
-    <td><b>Structured Learning for Planning and World Modeling in Complex Environments</b></td>
+    <td><b>Structured Learning for Planning and World Modeling in Complex Environments</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=add1e499-b26f-44fc-bd4d-b229012d9e2c' target="_blank">recording</a>]</td>
     <td>Linfeng Zhao</td>
   </tr>
   <tr>
