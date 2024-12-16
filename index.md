@@ -33,37 +33,37 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>10/25</td>
-    <td><b>Know your (model's) limits: Expanding robot capabilities by characterizing model deviation</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=635a8141-d234-402e-b9bb-b214011bfb2e' target="_blank">recording</a>]</td>
+    <td><b>Know your (model's) limits: Expanding robot capabilities by characterizing model deviation</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=635a8141-d234-402e-b9bb-b214011bfb2e' target="_blank">recording</a>][<a href='assets/abstracts/alexlagrassa.txt' target="_blank">abstract</a>]</td>
     <td>Alex LaGrassa</td>
   </tr>
     <tr>
     <td>10/30</td>
-    <td><b>Empowering Novice Users of Robots through Accessible Information and Pre-trained Policies</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ec8b9d8-a010-4575-951d-b219013a7f8b' target="_blank">recording</a>]</td>
+    <td><b>Empowering Novice Users of Robots through Accessible Information and Pre-trained Policies</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ec8b9d8-a010-4575-951d-b219013a7f8b' target="_blank">recording</a>][<a href='assets/abstracts/isaacsheidlower.txt' target="_blank">abstract</a>]</td>
     <td>Isaac Sheidlower</td>
   </tr>
   <tr>
     <td>11/01</td>
-    <td><b>Environment Curriculum Generation via Large Language Models</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ace3d7e-51c4-4112-972e-b21b011c7dc0' target="_blank">recording</a>]</td>
+    <td><b>Environment Curriculum Generation via Large Language Models</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ace3d7e-51c4-4112-972e-b21b011c7dc0' target="_blank">recording</a>][<a href='assets/abstracts/jasonma.txt' target="_blank">abstract</a>]</td>
     <td>Jason Ma</td>
   </tr>
   <tr>
     <td>11/08</td>
-    <td><b>Robot Planning and Manipulation: Symbols, Geometry, and Feasibility</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06d84dd4-f2d9-44c3-8607-b22201148bbe&start=1972.574556' target="_blank">recording</a>]</td>
+    <td><b>Robot Planning and Manipulation: Symbols, Geometry, and Feasibility</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06d84dd4-f2d9-44c3-8607-b22201148bbe&start=1972.574556' target="_blank">recording</a>][<a href='assets/abstracts/neildantam.txt' target="_blank">abstract</a>]</td>
     <td>Neil Dantam</td>
   </tr>
   <tr>
     <td>11/15</td>
-    <td><b>Structured Learning for Planning and World Modeling in Complex Environments</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=add1e499-b26f-44fc-bd4d-b229012d9e2c' target="_blank">recording</a>]</td>
+    <td><b>Structured Learning for Planning and World Modeling in Complex Environments</b> [<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=add1e499-b26f-44fc-bd4d-b229012d9e2c' target="_blank">recording</a>][<a href='assets/abstracts/linfengzhao.txt' target="_blank">abstract</a>]</td>
     <td>Linfeng Zhao</td>
   </tr>
   <tr>
     <td>11/22</td>
-    <td><b>TBD</b></td>
+    <td><b>Rethinking Generalization through Exploration</b> [<a href="https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e8623f7a-e8a8-4c12-b0fe-b230012aa581" target="_blank">recording</a>][<a href='assets/abstracts/yidingjiang.txt' target="_blank">abstract</a>]</td>
     <td>Yiding Jiang</td>
   </tr>
   <tr>
     <td>12/6</td>
-    <td><b>Planning and Exploration for Autonomous Systems with Aquatic Applications</b></td>
+    <td><b>Planning and Exploration for Autonomous Systems with Aquatic Applications</b> [<a href="https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36c70fd5-3877-41a4-8a86-b23e010d442b" target="_blank">recording</a>][<a href='assets/abstracts/narekarapetyan.txt' target="_blank">abstract</a>]</td>
     <td>Nare Karapetyan</td>
   </tr>
 </tbody>
@@ -116,7 +116,7 @@ Brown Robotics Talks consists of BigAI talks and lab talks ([CIT](https://www.go
   </tr>
   <tr>
     <td>04/26</td>
-    <td><b>Experiment Planning with Function Approximation</b> [<a href='assets/abstracts/aldopacchiano.txt' target="_blank">abstract</a>]</td>
+    <td><b>Experiment Planning with Function Approximation</b> [<a href='assets/abstracts/aldopacchiano.txt' target="_blank">abstract</a>][<a href='https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb753c1-d92e-43f5-9cd9-b13101137e8c&start=1.366373' target='_blank'>recording</a>]</td>
     <td>Aldo Pacchiano</td>
   </tr>
 </tbody>
