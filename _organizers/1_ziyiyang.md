@@ -6,7 +6,7 @@ name: Ziyi Yang
 webpage: http://yzylmc.com
 
 # Primary affiliation
-affil: 2024(Now)
+affil: 2024
 # Link to the primary affiliation
 # affil_link: https://buzz.edu
 
