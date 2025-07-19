@@ -1,17 +1,17 @@
 ---
 # Name of the organizer
-name: Tabitha Oanda
+name: Aditya Iyer
 
 # Link to the organizer's webpage
-webpage: https://github.com/TabithaKO
+webpage: https://github.com/Tejadi
 
 # Primary affiliation
-affil: 2025 (Now)
+affil: 2026 (Now)
 # Link to the primary affiliation
 # affil_link: https://buzz.edu
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: tabithaoanda.jpg
+img: adityaiyer.png
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

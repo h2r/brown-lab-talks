@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Please feel free to email [us](mailto:tabitha_oanda@brown.edu) if you have any question or suggestion!
+Please feel free to email [us](mailto:aditya_iyer@brown.edu) if you have any question or suggestion!
